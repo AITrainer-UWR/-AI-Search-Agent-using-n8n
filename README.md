@@ -1,6 +1,8 @@
 # AI-Search-Agent-using-n8n
 This project implements an AI-powered search assistant using an automation platform that integrates a language model with web search capabilities.
 
+ Drive link : https://docs.google.com/document/d/1qRReHZlZ8vgWNIzDWXOm7nbvKYON_W4AzxtmH7VXzWA/edit?usp=sharing
+
 ## 1. Introduction
 
 Artificial Intelligence agents are systems that can automatically perform tasks by interacting with users, accessing external tools, and processing information intelligently. This project implements an AI-powered search assistant using an automation platform that integrates a language model with web search capabilities.
